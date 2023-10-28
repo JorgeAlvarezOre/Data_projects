@@ -2,7 +2,7 @@
 
 ## Intro
 We have a year of sales data of a Pizza Store with fields like 'pizza name', 'quantity', 'order price', 'order date and time', etc.
-We need to analyze the Key Performance Indicators (KPI) and some charts of the store to gain insights of our business Performance and understand key trends.
+We need to analyze the Key Performance Indicators (KPI) and some charts of the store to gain insights of the business performance and understand key trends.
 
 ## Data
 We have a \*.CSV file with every sale of the year divided as follows.
