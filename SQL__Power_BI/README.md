@@ -17,7 +17,7 @@ We have a \*.CSV file with every sale of the year divided as follows.
 
 ## Charts requirement
 6. **Daily trend for total orders:** Bar chart that will help us identify any patterns or fluctuations in order volumes on a daily basis.
-7. **Monthy trend for total orders:** Line chart that will allow us to identify peak hours or periods of high order activity.
+7. **Monthy trend for total orders:** Line chart that will allow us to identify monthly periods of high order activity.
 8. **Percentage of sales by pizza category:** Pie chart will provide insights into the popularity of various pizza categories and the contribution to overall sales.
 9. **Percentage of sales by pizza size:** Pie chart that will help us understand customer preferences for pizza sizes and their impact on sales.
 10. **Total pizzas sold by pizza category:** Funnel chart that will allow us to compare the sales performance of different pizza categories.
