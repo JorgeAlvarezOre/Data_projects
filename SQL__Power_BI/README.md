@@ -1,5 +1,7 @@
 # PIZZA SALES REPORT (SQL + Power BI project)
 
+A spanish version of this page is available [here](https://github.com/JorgeAlvarezOre/Data_projects/blob/main/SQL__Power_BI/README_Es.md).
+
 ## Intro
 We have a year of sales data of a Pizza Store with fields like 'pizza name', 'quantity', 'order price', 'order date and time', etc.
 We need to analyze the Key Performance Indicators (KPI) and some charts of the store to gain insights of the business performance and understand key trends.
@@ -17,7 +19,7 @@ We have a \*.CSV file with every sale of the year divided as follows.
 
 ## Charts requirement
 6. **Daily trend for total orders:** Bar chart that will help us identify any patterns or fluctuations in order volumes on a daily basis.
-7. **Monthy trend for total orders:** Line chart that will allow us to identify monthly periods of high order activity.
+7. **Monthly trend for total orders:** Line chart that will allow us to identify monthly periods of high order activity.
 8. **Percentage of sales by pizza category:** Pie chart will provide insights into the popularity of various pizza categories and the contribution to overall sales.
 9. **Percentage of sales by pizza size:** Pie chart that will help us understand customer preferences for pizza sizes and their impact on sales.
 10. **Total pizzas sold by pizza category:** Funnel chart that will allow us to compare the sales performance of different pizza categories.
@@ -43,7 +45,7 @@ We have a \*.CSV file with every sale of the year divided as follows.
 6. **Daily trend for total orders:**<br>
 ![SQL 6](Images_README.md/07_SQL_6.jpg)
 
-7. **Monthy trend for total orders:**<br>
+7. **Monthly trend for total orders:**<br>
 ![SQL 7](Images_README.md/08_SQL_7.jpg)
 
 8. **Percentage of sales by pizza category:**<br>
@@ -76,4 +78,8 @@ If you want to apply the pizza_category or pizza_size filters to the above queri
 ![SQL 17](Images_README.md/18_SQL_17.jpg)<br><br>
 
 ## Power BI dashboard
+Online interactive Power Bi dashboard that show in two pages the above KPI and charts. The "Home" page illustrate the busiest days and times and some others KPI's, and the "Best/worst sellers" the most and least selled pizza respectively.
+
+<https://app.powerbi.com/view?r=eyJrIjoiNWZkOTRhZGQtODgyYS00Zjc0LThlMGItMmIyOTE2NjJjMTVhIiwidCI6IjgzZGMwYzk0LWRkNTgtNDlmNC05YmI0LTU4NDhjMWM3NmYzYyJ9>
+
 [![Power BI preview](Images_README.md/19_Power_BI_preview.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNWZkOTRhZGQtODgyYS00Zjc0LThlMGItMmIyOTE2NjJjMTVhIiwidCI6IjgzZGMwYzk0LWRkNTgtNDlmNC05YmI0LTU4NDhjMWM3NmYzYyJ9)
