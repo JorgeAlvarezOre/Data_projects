@@ -78,6 +78,6 @@ Si se desea aplicar los filtros pizza_category o pizza_size a las consultas ante
 ## Power BI dashboard
 Dashboard Power Bi interactivo en línea que muestra en dos páginas los KPI y los gráficos  anteriormente mencionados. La página "Inicio" ilustra los días y horas de mayor actividad y algunos otros KPIs, mientras los "Mejores/peores vendidas", las pizzas más y menos vendidas respectivamente.
 
-<https://app.powerbi.com/view?r=eyJrIjoiNWZkOTRhZGQtODgyYS00Zjc0LThlMGItMmIyOTE2NjJjMTVhIiwidCI6IjgzZGMwYzk0LWRkNTgtNDlmNC05YmI0LTU4NDhjMWM3NmYzYyJ9>
+<https://app.powerbi.com/view?r=eyJrIjoiNTNhNWUwZWItOGEyMi00YjhjLWJhZDAtNzNiMzBhZDg4OGIyIiwidCI6IjgzZGMwYzk0LWRkNTgtNDlmNC05YmI0LTU4NDhjMWM3NmYzYyJ9>
 
-[![Power BI preview](Images_README.md/19_Power_BI_preview.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNWZkOTRhZGQtODgyYS00Zjc0LThlMGItMmIyOTE2NjJjMTVhIiwidCI6IjgzZGMwYzk0LWRkNTgtNDlmNC05YmI0LTU4NDhjMWM3NmYzYyJ9)
+[![Power BI preview](Images_README.md/19_Power_BI_preview_Es.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNTNhNWUwZWItOGEyMi00YjhjLWJhZDAtNzNiMzBhZDg4OGIyIiwidCI6IjgzZGMwYzk0LWRkNTgtNDlmNC05YmI0LTU4NDhjMWM3NmYzYyJ9)
