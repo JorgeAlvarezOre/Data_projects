@@ -1,6 +1,6 @@
 # PIZZA REPORTE DE VENTAS (Proyecto SQL + Power BI)
 
-A English version and the files used in this projet is available [here](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/SQL__Power_BI).
+Una versión en inglés y los archivos del proyecto se pueden encontrar [aquí](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/SQL__Power_BI).
 
 ## Introducción
 Tenemos un año de datos de ventas de una pizzería con columnas como 'nombre de la pizza', 'cantidad', 'precio del pedido', 'fecha y hora del pedido', etc. (nombres de las columnas en inglés).
