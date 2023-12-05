@@ -1,5 +1,7 @@
 # PIZZA REPORTE DE VENTAS (Proyecto SQL + Power BI)
 
+A English version and the files used in this projet is available [here](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/SQL__Power_BI).
+
 ## Introducción
 Tenemos un año de datos de ventas de una pizzería con columnas como 'nombre de la pizza', 'cantidad', 'precio del pedido', 'fecha y hora del pedido', etc. (nombres de las columnas en inglés).
 Necesitamos analizar los Key Performance Indicators (KPI o Indicadores de Rendimiento en español) y algunos gráficos para obtener información sobre el rendimiento del negocio y comprender las tendencias.
