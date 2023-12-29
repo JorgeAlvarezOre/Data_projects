@@ -24,7 +24,7 @@ Net interest income (NII), or the difference between interest earned and interes
 The average of a poll of three brokerages estimated that the profits will rise to Rs 12,181 crore. Net interest income (NII) was expected to increase 30.5 percent on-year (up 8.8 percent QoQ) to Rs 24,601.9 crore, whereas the average poll of estimates saw HDFC Bank to report 21.9 percent YoY rise in March quarter profits.
 
 **Example 3**<br>
-Tesla's earning this quarter blew all the estimates. They reported 4.5 billion \$ profit against a revenue of 30 billion \$. Their earnings per share was 2.3 \$
+Tesla's earning this quarter blew all the estimates. They reported 4.5 billion \$ profit against a revenue of 30 billion \$ . Their earnings per share was 2.3 \$
 
 ## Tech Stack
 ```commandline
