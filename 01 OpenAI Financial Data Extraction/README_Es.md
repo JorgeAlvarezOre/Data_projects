@@ -1,5 +1,7 @@
 # Herramienta para la extracción de datos financieros (Proyecto OpenAI API)
 
+Una versión en inglés y los archivos del proyecto se pueden encontrar [aquí](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/01%20OpenAI%20Financial%20Data%20Extraction).
+
 Herramienta sencilla para extraer datos financieros de un texto dado mediante la API de OpenAI (OpenAI ChatCompletion). Aplicación escrita en Python (Backend) y Streamlit (Frontend).<br>
 Todo lo que se debe hacer es colocar un texto o un artículo en el área de texto y la aplicación extraerá las medidas financieras clave, como el nombre de la empresa, el símbolo bursátil, los ingresos, los ingresos netos, etc. El texto o artículo suele ser un artículo sobre los informes financieros de la empresa.
 
