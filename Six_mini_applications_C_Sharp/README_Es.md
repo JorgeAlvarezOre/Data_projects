@@ -12,7 +12,7 @@ IDE: Visual Studio Code
 ## 1 Historias locas
 El sistema pedirá algunas palabras y luego concatenará las palabras ingresadas por el usuario en oraciones divertidas.
 
-Code:
+Código:
 ```
 string organización = "freeCodeCamp"; // Cadena de caracteres asignada a una variable string
 
@@ -41,7 +41,7 @@ Console.ReadLine();
 ## 2 Adivina el número
 El usuario adivina el número aleatorio generado por la computadora.
 
-Code:
+Código:
 ```
 void Adivina_el_número(int x)
 {
@@ -87,7 +87,7 @@ Adivina_el_número(10);
 ## 3 La computadora adivina el número
 La computadora debe adivinar el número seleccionado por el usuario.
 
-Code:
+Código:
 ```
 void adivina_el_numero_computadora(int x)
 {
@@ -139,7 +139,7 @@ adivina_el_numero_computadora(10);
 ## 4 Juego Piedra-Papel-tijera
 Jugando al clásico juego Piedra-Papel-Tijera con la computadora
 
-Code:
+Código:
 ```
 string jugar()
 {
@@ -181,7 +181,7 @@ Console.WriteLine(jugar());
 ## 5 Juego del ahorcado
 El clásico juego del ahorcado en el que tienes que adivinar una palabra con intentos limitados. Tienes que descargar los archivos Palabras.cs y Ahorcado_diagramas.cs en la misma carpeta para poder ejecutar el siguiente código.
 
-Code:
+Código:
 ```
 using P5_Ahorcado.Palabras;
 using P5_Ahorcado.Ahorcado_diagramas;
@@ -290,9 +290,9 @@ ahorcado();
 ![05 Hangman](./Images_README.md/05_Hangman.png)
 
 ## 6 Búsqueda binaria
-Algoritmo de búsqueda para encontrar la posición de un valor objetivo dentro de una lista ordenada. Este algoritmo es más rápido que la forma tradicional de comparar los elementos de la lista uno a uno. Mencionar que la implementación de este código en Python es mucho más lenta ( esperable ya que Python es un lenguaje de programación interpretado).
+Algoritmo de búsqueda para encontrar la posición de un valor objetivo dentro de una lista ordenada. Este algoritmo es más rápido que la forma tradicional de comparar los elementos de la lista uno a uno. Mencionar que la implementación de este código en Python es mucho más lenta (esperable ya que Python es un lenguaje de programación interpretado).
 
-Code:
+Código:
 ```
 int búsqueda_ingenua(List<int> lista, int objetivo)
 {
