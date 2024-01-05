@@ -2,7 +2,7 @@
 
 Una versión en inglés y los archivos del proyecto se pueden encontrar [aquí](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/OpenAI%20Functions%20Own%20Data).
 
-Creación de un sistema de preguntas y respuestas que responde como ChatGPT pero obtiene las respuestas de una base de datos interna de una universidad ficticia utilizando la API de OpenAI (OpenAI Function Calling). Aplicación escrita en Python (Backend) y Streamlit (Frontend)<br>
+Creación de un sistema de preguntas y respuestas que responde como ChatGPT pero obtiene las respuestas de una base de datos interna de una universidad ficticia utilizando la API de OpenAI (OpenAI Function Calling). Aplicación escrita en Python (Backend) y Streamlit (Frontend).<br>
 Simplemente haga una pregunta en el área de entrada (Input) y el sistema obtendrá la respuesta de una base de datos interna imaginaria de una universidad ficticia.
 
 **Ejemplo de pregunta al sistema**<br>
